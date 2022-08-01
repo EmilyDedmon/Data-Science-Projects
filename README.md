@@ -1,9 +1,5 @@
 ## Seattle Data Airbnb Project
 
-<p style="text-align: left">
-  <img  src="../Blog Project/airbnb.jpg" width="700" alt="Video Games">
-</p>
-
 This exploration was to see if we could group certain Airbnb based on their scores.
 
 
